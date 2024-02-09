@@ -1,5 +1,6 @@
 # COVID-19 Data Visualization Project in Tableau
 This Project is in continuation with the CovidData-Exploration--SQL project. Link-(https://github.com/jadhavvaish/CovidData-Exploration--SQL)
+Data Visualization link -https://public.tableau.com/app/profile/vaishnavi.jadhav3927/viz/COVID-19Dashboard_17074713773700/Dashboard1
 
 **Overview**
 The COVID-19 Data Visualization Project in Tableau aims to provide interactive and insightful visualizations of COVID-19 data to facilitate understanding, analysis, and decision-making during the pandemic. Leveraging Tableau's robust visualization capabilities, this project comprehensively explores key COVID-19 metrics, trends, and patterns.
